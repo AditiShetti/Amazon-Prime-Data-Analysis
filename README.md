@@ -19,7 +19,7 @@ Duration: The duration of the movie or the number of seasons for TV shows in min
 Genre: The genre of the movie or TV show.  
 Description: A brief description of the movie or TV show.  
 
-#**Tools Used **: 
+#**Tools Used**: 
 Power BI  
 
-##For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊  
+#For any questions or feedback, feel free to reach out at Aditishetti9060@gmail.com😊  
