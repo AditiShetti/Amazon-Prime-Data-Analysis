@@ -19,6 +19,7 @@ Duration: The duration of the movie or the number of seasons for TV shows in min
 Genre: The genre of the movie or TV show.  
 Description: A brief description of the movie or TV show.  
 
+![WhatsApp Image 2024-08-28 at 03 35 58_0f9e82b2](https://github.com/user-attachments/assets/538594dc-e1b5-43b1-80f2-44de3d87f961)
 
 
 #**Tools Used**: 
