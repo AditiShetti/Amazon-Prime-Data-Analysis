@@ -8,15 +8,15 @@ The dataset includes details about a variety of movies and TV shows available on
 ## **Dataset**   
 This dataset is sourced from Kaggle and has 9668 rows and 12 columns.  
 
-🎥 **Title**: Name of the movie or TV show  
+🎥 **Title**:  Name of the movie or TV show  
 🎬 **Director**: Name of the director  
-⭐ **Cast**: List of main actors/actresses  
+⭐ **Cast**:  List of main actors/actresses  
 🌍 **Country**: Country of production  
-📅 **Release Year**: Year of release  
-🔞 **Rating**: Age rating (e.g., PG, R)  
-⏱️ **Duration**: Duration in minutes or number of seasons  
-🎭 **Genre**: Genre (e.g., drama, comedy)  
-📝 **Description**: Brief summary or plot description   
+📅 **Release Year**:  Year of release  
+🔞 **Rating**:  Age rating (e.g., PG, R)  
+⏱️ **Duration**:  Duration in minutes or number of seasons  
+🎭 **Genre**:  Genre (e.g., drama, comedy)  
+📝 **Description**:  Brief summary or plot description   
 
 ![WhatsApp Image 2024-08-28 at 03 35 58_0f9e82b2](https://github.com/user-attachments/assets/538594dc-e1b5-43b1-80f2-44de3d87f961)
 
